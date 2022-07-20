@@ -1,2 +1,2 @@
 # node-projects
- Projects and challenges for studying nodeJs
+ Projects and challenges for studying nodeJS
